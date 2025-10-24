@@ -1,6 +1,4 @@
 {
   "proxy_address": "theo.hidencloud.com",
   "proxy_port": "25421",
-  "jsonbin_url": "https://api.jsonbin.io/v3/b/68fba06ed0ea881f40b88d96",
-  "jsonbin_token": "$2a$10$JUmlI9NSUpjU4.GpyFN1I.HPffoQLVhrLqiGvnCHa2f3xkQrh3glO"
 }
